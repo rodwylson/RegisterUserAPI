@@ -1,0 +1,12 @@
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\bin\Debug\netcoreapp2.2\UserWS.Domain.deps.json
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\bin\Debug\netcoreapp2.2\UserWS.Domain.dll
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\bin\Debug\netcoreapp2.2\UserWS.Domain.pdb
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\bin\Debug\netcoreapp2.2\UserWS.Context.dll
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\bin\Debug\netcoreapp2.2\UserWS.Context.pdb
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\obj\Debug\netcoreapp2.2\UserWS.Domain.csprojAssemblyReference.cache
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\obj\Debug\netcoreapp2.2\UserWS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\obj\Debug\netcoreapp2.2\UserWS.Domain.AssemblyInfoInputs.cache
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\obj\Debug\netcoreapp2.2\UserWS.Domain.AssemblyInfo.cs
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\obj\Debug\netcoreapp2.2\UserWS.Domain.csproj.CopyComplete
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\obj\Debug\netcoreapp2.2\UserWS.Domain.dll
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWS.Domain\obj\Debug\netcoreapp2.2\UserWS.Domain.pdb

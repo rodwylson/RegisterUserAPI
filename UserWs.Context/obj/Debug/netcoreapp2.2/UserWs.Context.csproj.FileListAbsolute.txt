@@ -1,0 +1,9 @@
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWs.Context\bin\Debug\netcoreapp2.2\UserWS.Context.deps.json
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWs.Context\bin\Debug\netcoreapp2.2\UserWS.Context.dll
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWs.Context\bin\Debug\netcoreapp2.2\UserWS.Context.pdb
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWs.Context\obj\Debug\netcoreapp2.2\UserWS.Context.csproj.CoreCompileInputs.cache
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWs.Context\obj\Debug\netcoreapp2.2\UserWS.Context.AssemblyInfoInputs.cache
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWs.Context\obj\Debug\netcoreapp2.2\UserWS.Context.AssemblyInfo.cs
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWs.Context\obj\Debug\netcoreapp2.2\UserWS.Context.dll
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWs.Context\obj\Debug\netcoreapp2.2\UserWS.Context.pdb
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserWs.Context\obj\Debug\netcoreapp2.2\UserWS.Context.csprojAssemblyReference.cache

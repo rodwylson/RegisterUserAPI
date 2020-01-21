@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWS.Domain\\UserWS.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWs.Context\\UserWS.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWs.Context\\UserWS.Context.csproj",
+        "projectName": "UserWS.Context",
+        "projectPath": "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWs.Context\\UserWS.Context.csproj",
+        "packagesPath": "C:\\Users\\WISE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWs.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\WISE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWS.Domain\\UserWS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWS.Domain\\UserWS.Domain.csproj",
+        "projectName": "UserWS.Domain",
+        "projectPath": "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWS.Domain\\UserWS.Domain.csproj",
+        "packagesPath": "C:\\Users\\WISE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\WISE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWs.Context\\UserWS.Context.csproj": {
+                "projectPath": "C:\\Users\\WISE\\Desktop\\UserSystem\\UserAppWS\\UserWs.Context\\UserWS.Context.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

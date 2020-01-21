@@ -1,0 +1,14 @@
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\bin\Debug\netcoreapp2.2\UserAppWS.deps.json
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\bin\Debug\netcoreapp2.2\UserAppWS.runtimeconfig.json
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\bin\Debug\netcoreapp2.2\UserAppWS.runtimeconfig.dev.json
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\bin\Debug\netcoreapp2.2\UserAppWS.dll
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\obj\Debug\netcoreapp2.2\UserAppWS.csprojAssemblyReference.cache
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\obj\Debug\netcoreapp2.2\UserAppWS.csproj.CoreCompileInputs.cache
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\obj\Debug\netcoreapp2.2\UserAppWS.RazorAssemblyInfo.cache
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\obj\Debug\netcoreapp2.2\UserAppWS.RazorAssemblyInfo.cs
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\obj\Debug\netcoreapp2.2\UserAppWS.AssemblyInfoInputs.cache
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\obj\Debug\netcoreapp2.2\UserAppWS.AssemblyInfo.cs
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\obj\Debug\netcoreapp2.2\UserAppWS.RazorTargetAssemblyInfo.cache
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\bin\Debug\netcoreapp2.2\UserAppWS.pdb
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\obj\Debug\netcoreapp2.2\UserAppWS.dll
+C:\Users\WISE\Desktop\UserSystem\UserAppWS\UserAppWS\obj\Debug\netcoreapp2.2\UserAppWS.pdb
